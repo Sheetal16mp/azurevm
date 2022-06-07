@@ -20,7 +20,7 @@ variable "password" {
 
 variable "type_of_storage" {
   type   = string
-  description = "The type of Storage used for VM deployment.
+  description = "The type of Storage used for VM deployment."
   }
 
 variable "vm_name" {
